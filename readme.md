@@ -6,7 +6,7 @@ Table of contents
 =================
 <!--ts-->
    * [Update](#Update)
-   * [Theoretical background](#theoretical_background)
+   * [Theoretical background](#theoretical background)
    * [Tech](#tech)     
    * [Installation](#installation)
    * [Usage](#usage)
