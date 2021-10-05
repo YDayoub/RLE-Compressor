@@ -4,10 +4,9 @@ This repo is a python-implementation of rle-compression algorithm. The program u
 
 Table of contents
 =================
-
 <!--ts-->
    * [Update](#Update)
-   * [Theoretical background](#Theoretical background)
+   * [Theoretical background](#theoretical_background)
    * [Tech](#tech)     
    * [Installation](#installation)
    * [Usage](#usage)
